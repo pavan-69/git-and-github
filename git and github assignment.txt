@@ -1,0 +1,34 @@
+1) what is git?
+git is an version controlled system.It uses to doing projects in
+collabration and trcking code changes
+
+2)what do you understand by the term 'version controlled system'?
+Version control systems are a category of software tools that helps in recording changes made to files by keeping
+ a track of modifications done in the code.
+
+3)what is Github?
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects 
+from anywhere.
+ 
+4)mention some popular git hosting services?
+  Bitbucket.
+  GitLab.
+  Perforce.
+  Beanstalk.
+  Amazon AWS CodeCommit.
+  Codebase.
+
+5)different types of version controlled systems?
+  centralised version controlled system
+  distrubuted version controlld system
+
+6)what benifits come with using git?
+Tracking code changes
+tracking who made changes like history of files
+coding collabrations
+
+7)what is a git repository?
+Git repositary is a place which is used to store files
+
+8)how can you intialize a repositiry in git?
+using git init
